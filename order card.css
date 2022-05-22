@@ -1,0 +1,148 @@
+.aks{
+	width:30%;
+	height:97vh;
+	background-color:white;
+	float:right;
+	margin-right:35%;
+	background-image:url("ills.svg");
+	background-size:contain;
+	background-repeat:no-repeat;
+	
+	border-radius:30px;
+	
+	
+}
+body{
+	background-image:url("pattern.svg");
+	background-size:2500px;
+	background-repeat:no-repeat;
+	
+	
+	
+	
+	
+}
+.patt{
+	background-image:url("ills.svg");
+	background-size:contain;
+	
+	
+	
+}
+
+.menu{
+	margin-top:230px;
+	margin-left:80px;
+	
+	
+	
+	
+	
+	
+}
+
+p{
+	margin-left:75px;
+	color:#9d9999;
+	font-size:18px;
+	
+	
+		
+		
+		
+}
+
+.cadr{
+	height:80px;
+	width:80%;
+	background-color:#f6f6f9;
+	margin-left:40px;
+	border-radius:15px;
+	display:flex;
+	
+}
+.par2{
+	margin-left:60px;
+	
+	
+}
+
+.circle{
+	
+	border-radius:300px;
+	width:50px;
+	height:50px;
+	background-color:#c7bee3;
+	position:absolute;
+	top:430px;
+	left:500px;
+}
+
+.photo{
+	position:absolute;
+	top:430px;
+	left:500px;
+
+	border-radius:300px;
+	width:50px;
+	height:50px;
+	background-color:blue;
+	
+}
+.cadr h3{
+	margin-top:20px;
+	margin-left:80px;
+	
+	
+	
+}
+.price{
+	position:absolute;
+	top:440px;
+	color:#9090af;
+}
+.change{
+	position:absolute;
+	top:420px;
+	left:640px;
+	
+	
+}
+
+.proced{
+	width:80%;
+	height:60px;
+
+	background-color:blue;
+	border-radius:20px;
+	margin-top:20px;
+	margin-left:40px;
+	box-shadow:5px 20px 4px #ecf2f7;
+	
+}
+
+.payment{
+	position:absolute;
+	top:510px;
+	left:560px;
+	color:white;
+	text-align:center;
+	
+	
+	
+}
+
+.cancel{
+	text-align:center;
+	margin-top:30px;
+	
+	
+	
+	
+}
+
+.link{
+	color:#9090af;
+	text-decoration:none;
+	
+}
